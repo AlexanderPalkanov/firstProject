@@ -1,0 +1,17 @@
+p {
+  color: #aaa;
+  font-weight: bold;
+  display: inline-block;
+  background: #555; }
+  p:hover {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translate(200px, 100px);
+    box-shadow: 10px 10px 10px 0 green;
+    border-radius: 10px;
+    color: #000;
+    width: 800px;
+    height: 100px; }
+
+/*# sourceMappingURL=main.css.map */
